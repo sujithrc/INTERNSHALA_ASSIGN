@@ -1,4 +1,5 @@
 Flask
 requests
 python-dotenv
-google-cloud-aiplatform
+#google-cloud-aiplatform
+google-generativeai
